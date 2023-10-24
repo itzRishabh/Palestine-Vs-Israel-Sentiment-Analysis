@@ -19,6 +19,8 @@ created_time (datetime): The timestamp when the comment was created. This column
 # Dataset Usage
 The Israel vs. Palestine sentiment analysis dataset is a valuable resource for researchers, analysts, and data scientists interested in studying sentiment trends and affiliations related to the Israel-Palestine conflict. You can use this dataset to perform various analyses, including sentiment analysis, trend analysis, and sentiment affiliation studies.
 
+#Dataset Link
+Access the dataset https://drive.google.com/file/d/1RDuNtXxNl5E1eUFHFTbONTnm90dqcG3B/view?usp=drive_link
 
 #Acknowledgments
 We would like to express our gratitude to the Reddit community and contributors for making this dataset possible. Their participation and engagement in discussions related to the Israel-Palestine conflict have enabled this dataset's creation and real-time updates.
